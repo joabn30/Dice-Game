@@ -1,0 +1,1 @@
+I designed and developed a simple web-based Dice Game using HTML, CSS, and JavaScript. The game simulates two players rolling dice, with dynamic image updates and a winner announcement based on the roll outcome. This project demonstrates DOM manipulation, basic logic, and styling techniques to create an interactive user experience.
